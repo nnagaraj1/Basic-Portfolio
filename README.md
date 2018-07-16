@@ -2,7 +2,5 @@
 
 Here is a basic portfolio showcasing projects. 
 
-Technologies Used: 
--HTML 
--CSS
+Technologies Used: HTML, CSS
 
